@@ -223,3 +223,5 @@ ggplot_8 <- ggplot(data=vaccs_5, aes(x=date, y=(dosen/3669491), group=factor(imp
 
 figure_2 <- ggarrange(ggplot_5, ggplot_6, ggplot_7, ggplot_8, ncol = 2, nrow = 2)
 figure_2
+
+##
